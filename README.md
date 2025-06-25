@@ -1,8 +1,9 @@
 # InvestFácil – Simulador de Investimentos em FIIs
 
-![GitHub repo size](https://github.com/Higor-hpm/Excel-FinanceDIO)
+![GitHub repo size](https://img.shields.io/github/repo-size/Higor-hpm/Excel-FinanceDIO)
 
 ## Sumário
+
 - [Sobre](#sobre)
 - [Objetivos](#objetivos)
 - [Funcionalidades](#funcionalidades)

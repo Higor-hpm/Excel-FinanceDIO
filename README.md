@@ -1,7 +1,20 @@
 # InvestFácil – Simulador de Investimentos em FIIs
 
-**Descrição breve**  
-Ferramenta em Excel que permite simular aportes mensais em Fundos Imobiliários (FIIs), estimar patrimônio acumulado e dividendos ao longo do tempo.
+![GitHub repo size](https://github.com/Higor-hpm/Excel-FinanceDIO)
+
+## Sumário
+- [Sobre](#sobre)
+- [Objetivos](#objetivos)
+- [Funcionalidades](#funcionalidades)
+- [Como usar](#como-usar)
+- [Estrutura de pastas](#estrutura-de-pastas)
+- [Contribuição](#contribuição)
+- [Licença](#licença)
+
+---
+
+## Sobre
+Ferramenta em Excel para simulação de aportes mensais em Fundos Imobiliários (FIIs), com estimativas de patrimônio e dividendos ao longo do tempo.
 
 ---
 
@@ -12,7 +25,7 @@ Ferramenta em Excel que permite simular aportes mensais em Fundos Imobiliários 
 
 ---
 
-## 🛠️ Funcionalidades principais
+## 🛠️ Funcionalidades 
 
 - Entrada de dados: salário, aporte mensal, tempo, taxa de rendimento.
 - Cálculos automáticos de patrimônio e dividendos.
@@ -21,7 +34,28 @@ Ferramenta em Excel que permite simular aportes mensais em Fundos Imobiliários 
 
 ---
 
+## Como usar
+1. Clone o repositório: `git clone https://github.com/Higor-hpm/Excel-FinanceDIO`
+2. Abra `ProjetoDIO  .xlsx` no Excel.
+3. Preencha a aba "Configurações" com seus dados.
+4. Acompanhe os cenários e ajuste conforme desejado.
+
+---
+
 ## 📁 Estrutura de pastas
 [ProjetoDIO.xlsx](https://github.com/user-attachments/files/20911794/ProjetoDIO.xlsx)
 ![Captura de tela 2025-06-25 182538](https://github.com/user-attachments/assets/eb5ed70a-450e-4877-b669-97aecb5ebde3)
 
+---
+
+## Contribuição
+Contribuições são bem-vindas! Abra issues ou envie pull requests.
+
+---
+
+## Licença
+Destinado a uso pessoal e educativo.
+
+---
+
+![Visão geral do simulador](![Captura de tela 2025-06-25 182538](https://github.com/user-attachments/assets/f00f1375-f8f0-43e8-9fdd-c695f3030d61))

@@ -59,4 +59,3 @@ Destinado a uso pessoal e educativo.
 
 ---
 
-![Visão geral do simulador](![Captura de tela 2025-06-25 182538](https://github.com/user-attachments/assets/f00f1375-f8f0-43e8-9fdd-c695f3030d61))

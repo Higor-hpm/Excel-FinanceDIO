@@ -14,7 +14,7 @@
 
 ---
 
-## Sobre
+## 🌟 Sobre
 Ferramenta em Excel para simulação de aportes mensais em Fundos Imobiliários (FIIs), com estimativas de patrimônio e dividendos ao longo do tempo.
 
 ---
@@ -35,7 +35,7 @@ Ferramenta em Excel para simulação de aportes mensais em Fundos Imobiliários 
 
 ---
 
-## Como usar
+## 🎯 Como usar
 1. Clone o repositório: `git clone https://github.com/Higor-hpm/Excel-FinanceDIO`
 2. Abra `ProjetoDIO  .xlsx` no Excel.
 3. Preencha a aba "Configurações" com seus dados.

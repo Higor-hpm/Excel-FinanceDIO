@@ -38,7 +38,7 @@ Ferramenta em Excel para simulação de aportes mensais em Fundos Imobiliários 
 ## 🎯 Como usar
 1. **Clone o repositório:**
     ```bash
-    git clone https://github.com/SEU_USUARIO/Excel-FinanceDIO
+    git clone https://github.com/SEU_USUARIO/Excel-FinanceDIO.git
     ```
 2. Abra `ProjetoDIO  .xlsx` no Excel.
 3. Preencha a aba "Configurações" com seus dados.
